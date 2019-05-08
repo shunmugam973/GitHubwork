@@ -1,0 +1,11 @@
+Addition
+x+y
+
+Substraction
+x-y
+
+multiply
+x*y
+
+divide
+x/y
